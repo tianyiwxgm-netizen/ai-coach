@@ -1,0 +1,1037 @@
+{
+  "total": 206,
+  "passed": 206,
+  "failed": 0,
+  "results": [
+    {
+      "name": "skill 文件存在：main",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "skill 文件存在：fullstack",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "skill 文件存在：product",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "skill 文件存在：backend",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "skill 文件存在：testing",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "skill 文件存在：frontend",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "skill 文件存在：init",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "skill 文件存在：enterprise",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "skill 文件存在：evaluate",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "子 skill 可访问：ai-coach-fullstack",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "子 skill 可访问：ai-coach-product",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "子 skill 可访问：ai-coach-backend",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "子 skill 可访问：ai-coach-testing",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "子 skill 可访问：ai-coach-frontend",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "子 skill 可访问：ai-coach-init",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "子 skill 可访问：ai-coach-enterprise",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "子 skill 可访问：ai-coach-evaluate",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "install.sh 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: YAML frontmatter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: name = ai-coach",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: version = 3.1.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: When to Activate 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: 触发词包含\"教练\"",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: 触发词包含\"复盘\"",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: 全局规则节存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: 教练不执行规则",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: 语言自适应规则",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: 角色记忆规则",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: 治具改进循环规则",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: Step 0 入口路由存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: Step 0.1 检查角色记忆",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: Step 0.2 角色选择",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: Step 0.3 主菜单",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: Step 0.4 角色路由表",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "路由表：一人全栈",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "路由表：产品",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "路由表：后端",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "路由表：测试",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "路由表：前端",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "路由表：评估",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "路由表：企业级",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill: Memory 写入格式定义",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "角色菜单包含：一人全栈",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "角色菜单包含：产品",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "角色菜单包含：后端",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "角色菜单包含：测试",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "角色菜单包含：前端",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主菜单包含：开启新任务",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主菜单包含：复盘总结",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主菜单包含：切换角色",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主菜单包含：快速提问",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: YAML frontmatter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: version = 3.1.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: Step 1 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: Step 2 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: Step 3 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: 包含「五大核心原则」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: 包含「Skill 表」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: 包含「示范提示词」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: 包含「brainstorming」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: YAML frontmatter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: version = 3.1.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: Step P1 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: Step P2 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: Step P3 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: Step P4 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: Step P5 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: 包含「历史资产盘点」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: 包含「AI 可执行」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: 包含「原型」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: 包含「prd-development」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: 包含「治具优先」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: 包含「治具建议」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: YAML frontmatter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: version = 3.1.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: Step B1 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: Step B2 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: Step B3 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: Step B4 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: 包含「后台管理」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: 包含「TDD」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: 包含「B-Bug」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: 包含「B-Emergency」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: 包含「治具优先」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: 包含「治具建议」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: YAML frontmatter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: version = 3.1.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: Step T1 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: Step T2 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: Step T3 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: Step T4 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: 包含「测试金字塔」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: 包含「T-Quick」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: 包含「T-Regression」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: 包含「Playwright」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: 包含「治具优先」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: 包含「治具建议」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: YAML frontmatter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: version = 3.1.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: Step F1 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: Step F2 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: Step F3 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: Step F4 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: 包含「目标平台」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: 包含「Mock」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: 包含「F-Bug」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: 包含「F-Emergency」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: 包含「治具优先」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: 包含「治具建议」",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: version = 3.1.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: 三层检查结构",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: CLAUDE.md 检查",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: Memory 目录检查",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: Skill 检查",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: 角色专属检查",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: 日常静默检查",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: 非技术友好语言",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: CLAUDE.md 4 关键段检查",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: Hooks 检查",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: 历史产出检查",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: version = 3.1.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: Step 9 角色读取",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 全栈评分维度（13-A）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 产品评分维度（13-B）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 后端评分维度（13-C）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 测试评分维度（13-D）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 前端评分维度（13-E）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 百分制评分",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 能力等级（L1/L2/L3）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 终端摘要输出",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 改进建议",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: L1 基础建议",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: L2 进阶建议",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: L3 专家建议含 Harness",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: history.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 角色记录",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: analyze_sessions.py 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 角色读取函数",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 角色专项字段",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "enterprise: 已精简（< 150 行）",
+      "passed": true,
+      "detail": "实际: 93 行"
+    },
+    {
+      "name": "enterprise: 版本 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "enterprise: 大型项目框架保留",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "enterprise: 跨模块协作",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "enterprise: 分阶段计划",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "测试用例总数 >= 30",
+      "passed": true,
+      "detail": "实际: 33 个"
+    },
+    {
+      "name": "case-51 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-52 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-53 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-54 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-55 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-56 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-57 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-58 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-59 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-60 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-61 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-62 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-63 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-64 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-65 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-66 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-67 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-68 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-69 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-70 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-71 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-72 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-73 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-74 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-75 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-76 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-77 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-78 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-79 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-80 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-81 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-82 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "case-83 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "TEST-PLAN.md 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "test_skill_structure.py 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "test_evaluation_profiles.py 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main: 版本号为 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: 版本号为 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "product: 版本号为 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "backend: 版本号为 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "testing: 版本号为 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "frontend: 版本号为 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "init: 版本号为 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "enterprise: 版本号为 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluate: 版本号为 3.0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "主 skill Memory 格式: AI教练角色:",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "fullstack: description <= 50 字符",
+      "passed": true,
+      "detail": "实际: 42 字符 — AI 编程教练一人全栈角色：覆盖全类型任务的诊断式引导，产出..."
+    },
+    {
+      "name": "product: description <= 50 字符",
+      "passed": true,
+      "detail": "实际: 46 字符 — AI 编程教练产品角色 — 引导产品经理基于历史资产产出 A..."
+    },
+    {
+      "name": "backend: description <= 50 字符",
+      "passed": true,
+      "detail": "实际: 49 字符 — AI 编程教练后端角色：引导后端开发者完成技术方案设计、编码..."
+    },
+    {
+      "name": "testing: description <= 50 字符",
+      "passed": true,
+      "detail": "实际: 35 字符 — AI驱动的全流程自动化测试教练——从用例设计到自动化执行到测..."
+    },
+    {
+      "name": "frontend: description <= 50 字符",
+      "passed": true,
+      "detail": "实际: 35 字符 — AI 编程教练前端角色：引导前端开发者完成Web/移动端/小..."
+    },
+    {
+      "name": "init: description <= 50 字符",
+      "passed": true,
+      "detail": "实际: 47 字符 — \"AI Coach 环境自检与初始化：三层检查（全局/角色/..."
+    },
+    {
+      "name": "enterprise: description <= 50 字符",
+      "passed": true,
+      "detail": "实际: 18 字符 — 跨角色通用的企业级/巨型级项目知识库..."
+    },
+    {
+      "name": "evaluate: description <= 50 字符",
+      "passed": true,
+      "detail": "实际: 43 字符 — AI 编程教练评估模式。角色路由 + 5 套评估维度，分析会..."
+    },
+    {
+      "name": "安装使用.md 存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "安装使用.md: 包含 install.sh 说明",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "安装使用.md: 包含 10 个场景",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "安装使用.md: 包含产品角色场景",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "安装使用.md: 包含后端角色场景",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "安装使用.md: 包含测试角色场景",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "安装使用.md: 包含前端角色场景",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}
