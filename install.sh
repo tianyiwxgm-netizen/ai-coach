@@ -1,11 +1,11 @@
 #!/bin/bash
-# ai-coach v3 安装脚本（幂等）
+# ai-coach v4 安装脚本（幂等）
 set -e
 
 SKILL_DIR="$(cd "$(dirname "$0")" && pwd)"
 TARGET="$HOME/.claude/skills"
 
-echo "正在安装 AI 编程教练 v3..."
+echo "正在安装 AI 编程教练 v4..."
 
 # 确保目标目录存在
 mkdir -p "$TARGET"

@@ -1,7 +1,7 @@
 ---
 name: ai-coach-enterprise
 description: 跨角色通用的企业级/巨型级项目知识库
-version: 3.1.0
+version: 4.0.0
 ---
 
 # 企业级/巨型级项目知识库

@@ -1,7 +1,7 @@
 ---
 name: ai-coach-evaluate
 description: AI 编程教练评估模式。角色路由 + 5 套评估维度，分析会话记录生成角色化评估报告。
-version: 3.1.0
+version: 4.0.0
 ---
 
 # AI 编程教练 — 评估模式
